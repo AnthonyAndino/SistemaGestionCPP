@@ -67,3 +67,7 @@ It includes real-time search, CSV export, a statistics dashboard, and a logging 
 - CMake
 - STL (vectors, strings, file handling)
 
+## Screenshots
+
+### Main Window
+![Main Window](images/main.png)

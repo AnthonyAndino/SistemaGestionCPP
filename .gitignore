@@ -1,0 +1,23 @@
+# Build
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Qt
+*.user
+*.autosave
+
+# Compilados
+*.exe
+*.o
+*.obj
+
+# Archivos generados
+socios.txt
+log.txt
+*.csv
+
+# Sistema
+Thumbs.db
+.DS_Store

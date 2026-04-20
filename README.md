@@ -11,17 +11,17 @@ El sistema también incluye un dashboard con estadísticas básicas y un sistema
 
 ### Características principales
 
-- ✔ Registro de socios (ID, nombre, saldo)
-- ✔ Edición y eliminación de registros
-- ✔ Búsqueda en tiempo real
-- ✔ Exportación a archivo CSV (Excel)
-- ✔ Dashboard con métricas:
+- Registro de socios (ID, nombre, saldo)
+- Edición y eliminación de registros
+- Búsqueda en tiempo real
+- Exportación a archivo CSV (Excel)
+- Dashboard con métricas:
   - Total de socios
   - Suma de saldos
   - Promedio de saldos
-- ✔ Sistema de logs de acciones
-- ✔ Interfaz gráfica con Qt
-- ✔ Diseño moderno en modo oscuro
+- Sistema de logs de acciones
+- Interfaz gráfica con Qt
+- Diseño moderno en modo oscuro
 
 ---
 
@@ -51,9 +51,9 @@ It includes real-time search, CSV export, a statistics dashboard, and a logging 
 - Real-time search
 - Export to CSV (Excel compatible)
 - Dashboard with metrics:
-- Total members
-- Total balance
-- Average balance
+  - Total members
+  - Total balance
+  - Average balance
 - Action logging system
 - Modern Qt GUI
 - Dark professional theme
